@@ -8,3 +8,8 @@ one of the projects was so big that im just gonna dump it in releases
 - [ArcGPT](ArcGPT.html)
 - [TermenalOS](TerminalOS.html)
 - [CAUGHT ON CAMERA](https://github.com/arc360alt/arcprojecthosting/releases/tag/v1)
+
+GAMES THAT ARENT MINE BUT ARE HERE FOR MY FRIENDS TO PLAY ON CBOOK:
+- [Tetris](Tetris.html)
+- [City World 4](CW4.html)
+- [Ball Blast](BallBlast.html)
