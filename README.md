@@ -7,3 +7,4 @@ one of the projects was so big that im just gonna dump it in releases
 - [ArcBrowser](ArcBrowser.html)
 - [ArcGPT](ArcGPT.html)
 - [TermenalOS](TerminalOS.html)
+- [CAUGHT ON CAMERA](https://github.com/arc360alt/arcprojecthosting/releases/tag/v1)
