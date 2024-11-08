@@ -4,7 +4,7 @@ one of the projects was so big that I'm just gonna dump it in releases
 
 # FInd the projects here
 - [ArcBrowser](ArcBrowser.html)
-- [ArcGPT](ArcGPT.html)
+- [ArcGPT](https://arc360alt.github.io/ArcGPT/ArcGPT03.html)
 - [TermenalOS](TerminalOS.html)
 - [CAUGHT ON CAMERA](https://github.com/arc360alt/arcprojecthosting/releases/tag/v1)
 - [CoreOS 3.2.1](https://github.com/arc360alt/arcprojecthosting/releases/tag/v1)
