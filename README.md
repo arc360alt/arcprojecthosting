@@ -14,3 +14,6 @@ GAMES THAT AREN'T MINE BUT ARE HERE FOR MY FRIENDS TO PLAY ON CBOOK:
 - [Tetris](Tetris.html)
 - [City World 4](CW4.html)
 - [Ball Blast](BallBlast.html)
+
+# Actual Projects
+[ArkOS Pixel Edition](https://arc360alt.github.io/arcprojecthosting/ArkOS%20Pixel%20edition/arkospe) - A OS Made in Penguinmod that has a UI Mostly made whith the pixel art style.
